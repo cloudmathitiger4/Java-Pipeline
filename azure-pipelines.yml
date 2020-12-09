@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'fb7480fd-f56e-44ae-a4c7-d4258e44210d'
   
   # Web app name
-  webAppName: 'mathiwebapp'
+  webAppName: 'helloworld'
 
   # Environment name
   environmentName: 'dev'
